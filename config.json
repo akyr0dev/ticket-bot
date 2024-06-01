@@ -1,0 +1,9 @@
+{
+    "token": "TOKEN",
+    "clientId": "CLIENT ID",
+    "guildId": "ID SERVER",
+    "channelId": "ID CHANNEL",
+    "categoryId": "ID CATEGORY",
+    "roleIds": ["ID 1", "ID 2"]
+  }
+  
